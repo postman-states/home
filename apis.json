@@ -1,0 +1,256 @@
+{
+  "name": "Postman States API Toolboxes",
+  "description": "This is a toolbox of APIs for states in the United States.",
+  "image": "https://postman-toolboxes2.s3.amazonaws.com/assets/postman-government.png",
+  "tags": [
+    "States",
+    "United States"
+  ],
+  "created": "2020-09-27",
+  "modified": "2020-09-27",
+  "url": "",
+  "specificationVersion": "0.14",
+  "include": [
+    {
+      "name": "Alabama",
+      "url": "https://postman-states.github.io/alabama/apis.json"
+    },
+    {
+      "name": "Alaska",
+      "url": "https://postman-states.github.io/alaska/apis.json"
+    },
+    {
+      "name": "American Samoa",
+      "url": "https://postman-states.github.io/american-samoa/apis.json"
+    },
+    {
+      "name": "Arizona",
+      "url": "https://postman-states.github.io/arizona/apis.json"
+    },
+    {
+      "name": "Arkansas",
+      "url": "https://postman-states.github.io/arkansas/apis.json"
+    },
+    {
+      "name": "California",
+      "url": "https://postman-states.github.io/california/apis.json"
+    },
+    {
+      "name": "Colorado",
+      "url": "https://postman-states.github.io/colorado/apis.json"
+    },
+    {
+      "name": "Connecticut",
+      "url": "https://postman-states.github.io/connecticut/apis.json"
+    },
+    {
+      "name": "Delaware",
+      "url": "https://postman-states.github.io/delaware/apis.json"
+    },
+    {
+      "name": "District Of Columbia",
+      "url": "https://postman-states.github.io/district-of-columbia/apis.json"
+    },
+    {
+      "name": "Federated States Of Micronesia",
+      "url": "https://postman-states.github.io/federated-states-of-micronesia/apis.json"
+    },
+    {
+      "name": "Florida",
+      "url": "https://postman-states.github.io/florida/apis.json"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://postman-states.github.io/georgia/apis.json"
+    },
+    {
+      "name": "Guam",
+      "url": "https://postman-states.github.io/guam/apis.json"
+    },
+    {
+      "name": "Hawaii",
+      "url": "https://postman-states.github.io/hawaii/apis.json"
+    },
+    {
+      "name": "Idaho",
+      "url": "https://postman-states.github.io/idaho/apis.json"
+    },
+    {
+      "name": "Illinois",
+      "url": "https://postman-states.github.io/illinois/apis.json"
+    },
+    {
+      "name": "Indiana",
+      "url": "https://postman-states.github.io/indiana/apis.json"
+    },
+    {
+      "name": "Iowa",
+      "url": "https://postman-states.github.io/iowa/apis.json"
+    },
+    {
+      "name": "Kansas",
+      "url": "https://postman-states.github.io/kansas/apis.json"
+    },
+    {
+      "name": "Kentucky",
+      "url": "https://postman-states.github.io/kentucky/apis.json"
+    },
+    {
+      "name": "Louisiana",
+      "url": "https://postman-states.github.io/louisiana/apis.json"
+    },
+    {
+      "name": "Maine",
+      "url": "https://postman-states.github.io/maine/apis.json"
+    },
+    {
+      "name": "Marshall Islands",
+      "url": "https://postman-states.github.io/marshall-islands/apis.json"
+    },
+    {
+      "name": "Maryland",
+      "url": "https://postman-states.github.io/maryland/apis.json"
+    },
+    {
+      "name": "Massachusetts",
+      "url": "https://postman-states.github.io/massachusetts/apis.json"
+    },
+    {
+      "name": "Michigan",
+      "url": "https://postman-states.github.io/michigan/apis.json"
+    },
+    {
+      "name": "Minnesota",
+      "url": "https://postman-states.github.io/minnesota/apis.json"
+    },
+    {
+      "name": "Mississippi",
+      "url": "https://postman-states.github.io/mississippi/apis.json"
+    },
+    {
+      "name": "Missouri",
+      "url": "https://postman-states.github.io/missouri/apis.json"
+    },
+    {
+      "name": "Montana",
+      "url": "https://postman-states.github.io/montana/apis.json"
+    },
+    {
+      "name": "Nebraska",
+      "url": "https://postman-states.github.io/nebraska/apis.json"
+    },
+    {
+      "name": "Nevada",
+      "url": "https://postman-states.github.io/nevada/apis.json"
+    },
+    {
+      "name": "New Hampshire",
+      "url": "https://postman-states.github.io/new-hampshire/apis.json"
+    },
+    {
+      "name": "New Jersey",
+      "url": "https://postman-states.github.io/new-jersey/apis.json"
+    },
+    {
+      "name": "New Mexico",
+      "url": "https://postman-states.github.io/new-mexico/apis.json"
+    },
+    {
+      "name": "New York",
+      "url": "https://postman-states.github.io/new-york/apis.json"
+    },
+    {
+      "name": "North Carolina",
+      "url": "https://postman-states.github.io/north-carolina/apis.json"
+    },
+    {
+      "name": "North Dakota",
+      "url": "https://postman-states.github.io/north-dakota/apis.json"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "url": "https://postman-states.github.io/northern-mariana-islands/apis.json"
+    },
+    {
+      "name": "Ohio",
+      "url": "https://postman-states.github.io/ohio/apis.json"
+    },
+    {
+      "name": "Oklahoma",
+      "url": "https://postman-states.github.io/oklahoma/apis.json"
+    },
+    {
+      "name": "Oregon",
+      "url": "https://postman-states.github.io/oregon/apis.json"
+    },
+    {
+      "name": "Palau",
+      "url": "https://postman-states.github.io/palau/apis.json"
+    },
+    {
+      "name": "Pennsylvania",
+      "url": "https://postman-states.github.io/pennsylvania/apis.json"
+    },
+    {
+      "name": "Puerto Rico",
+      "url": "https://postman-states.github.io/puerto-rico/apis.json"
+    },
+    {
+      "name": "Rhode Island",
+      "url": "https://postman-states.github.io/rhode-island/apis.json"
+    },
+    {
+      "name": "South Carolina",
+      "url": "https://postman-states.github.io/south-carolina/apis.json"
+    },
+    {
+      "name": "South Dakota",
+      "url": "https://postman-states.github.io/south-dakota/apis.json"
+    },
+    {
+      "name": "Tennessee",
+      "url": "https://postman-states.github.io/tennessee/apis.json"
+    },
+    {
+      "name": "Texas",
+      "url": "https://postman-states.github.io/texas/apis.json"
+    },
+    {
+      "name": "Utah",
+      "url": "https://postman-states.github.io/utah/apis.json"
+    },
+    {
+      "name": "Vermont",
+      "url": "https://postman-states.github.io/vermont/apis.json"
+    },
+    {
+      "name": "Virgin Islands",
+      "url": "https://postman-states.github.io/virgin-islands/apis.json"
+    },
+    {
+      "name": "Virginia",
+      "url": "https://postman-states.github.io/virginia/apis.json"
+    },
+    {
+      "name": "Washington",
+      "url": "https://postman-states.github.io/washington/apis.json"
+    },
+    {
+      "name": "West Virginia",
+      "url": "https://postman-states.github.io/west-virginia/apis.json"
+    },
+    {
+      "name": "Wisconsin",
+      "url": "https://postman-states.github.io/wisconsin/apis.json"
+    },
+    {
+      "name": "Wyoming",
+      "url": "https://postman-states.github.io/wyoming/apis.json"
+    }
+  ],
+  "maintainers": {
+    "FN": "Kin Lane",
+    "x-twitter": "apievangelist",
+    "email": "info@apievangelist.com"
+  }
+}
