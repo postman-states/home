@@ -1,5 +1,5 @@
 # Postman States
-This is an index of all of the repositories that are available within this organization.
+This is an index of all of the repositories that are available within this organization--you can find [a machine readable APIs.json file for this index here](https://raw.githubusercontent.com/postman-states/home/master/apis.json).
 
 | State | Repo | Setting | Website | 
 |:--|---|---|---|
